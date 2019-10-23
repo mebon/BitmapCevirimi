@@ -6,9 +6,9 @@ Yüklenilen resmi bitmape ve grayscaleye çevirme uygulaması.
 *İstenilen bir yere istenilen RGB değerinde nokta koyma  
 *Resmi grayscale'ye çevirme  
 *İstenilen threshold değeri ile resmi bitmape çevirme  
-  özelliklerini barındıran C# dili ile yazılmış, windows masaüstü uygulaması.  
+    özelliklerini barındıran C# dili ile yazılmış, windows masaüstü uygulaması.  
   
-**İlk Hal**
+**İlk Hal**  
 ![Screenshot_22](https://user-images.githubusercontent.com/50452706/67428704-57c09480-f5e7-11e9-9558-c3c727ae1f39.png)  
 
 **GrayScale'ye dönüşmüş hali.**  
